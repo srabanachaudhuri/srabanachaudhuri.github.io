@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Experience"
+permalink: /experience/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,18 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+ ## Student Consultant | Aug 2021 - December 2021 <br\> Bayer Foundation
+    - Consulted a social tech. enterprise to help farmers reduce post-harvest loss
+    - Created product roadmaps and application wireframes to ease payments authentication and tracking
+    - Shipped future scalable business model innovations analysing roadblocks in the value chain
+
 
 * Fall 2015: Research Assistant
   * Github University
@@ -35,6 +30,12 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
+
+Education
+======
+* B.S. in GitHub, GitHub University, 2012
+* M.S. in Jekyll, GitHub University, 2014
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Publications
 ======
