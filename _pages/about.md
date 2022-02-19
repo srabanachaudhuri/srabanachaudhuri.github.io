@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello there! I am
+Hello there!
 
-# Srabana Chaudhuri
-### I am a user-first product enthusiast 
-I am a graduate student at Purdue University. 
+
+# I am a user-first product enthusiast 
+I am a first year graduate student at Purdue University. 
 <br/> I study MS in industrial engineering management <br/> with a focus on cognitive theories and human factors <br/> that influence our interaction with digital interfaces
