@@ -11,12 +11,29 @@ redirect_from:
 
 Work experience
 ======
- ## Student Consultant | Aug 2021 - December 2021 <br\> Bayer Foundation
-    - Consulted a social tech. enterprise to help farmers reduce post-harvest loss
-    - Created product roadmaps and application wireframes to ease payments authentication and tracking
-    - Shipped future scalable business model innovations analysing roadblocks in the value chain
+ ## Student Consultant | Aug 2021 - December 2021 
+    Bayer Foundation
+    - Consulted a social tech. enterprise to help farmers reduce post-harvest loss.
+    - Created product roadmaps and application wireframes to ease payments authentication and tracking.
+    - Shipped future scalable business model innovations analysing roadblocks in the value chain.
 
+ ## Senior Office, Consumer Insights and Brand & Communications | March 2018 - May 2019 
+    V Guard Appliances
+    - Collaborated with product development, engineering, marketing for business requirements.
+    - Delivered recommendations for product improvement, feature enhancement, Brand Plan. 
+    - Deep-dived consumer data for mapping customer journey, marketing funnel & assesing campaign results.
+    - Established in-house mixed methods research capability & saved 20% research cost through negotiation.
+    - Extracted insights from moderated interviews to ideate campaign for 2K+ dealer network.
+    
+ ## Research Manager,Consumer Packaged Goods | March 2017 - February 2018
+    Kantar 
+    - Managed 40% of personal care project portfolio , team won best annual performance in SE Asia
+    - Executed end-to-end research independently  - proposal writing, experiment design through analysis and client presentation
+    - Used predictive models & structural equation modelling for causal relationships, conjoint analysis to measure consumer preferences, 
+      eye tracking data for heat maps, gaze paths	Headed a team of 3 to standardise research template and questionnaire for 4 most frequent research
+    - Headed a team of 3 to standardise research template and questionnaire for 4 most frequent research![Uploading image.png…]()
 
+    
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
